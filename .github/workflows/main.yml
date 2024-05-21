@@ -1,0 +1,4 @@
+name: windows
+runs-on: windows-latest
+- Command
+ee
